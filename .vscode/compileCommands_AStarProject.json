@@ -1,0 +1,74 @@
+[
+	{
+		"file": "C:\\Users\\holdz\\Desktop\\AStarProject\\Source\\AStarProject\\AStarProject.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\holdz\\Desktop\\AStarProject\\.vscode\\compileCommands_AStarProject\\AStarProject.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\holdz\\Desktop\\AStarProject\\Source\\AStarProject\\AStarProject.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\holdz\\Desktop\\AStarProject\\.vscode\\compileCommands_AStarProject\\AStarProject.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\holdz\\Desktop\\AStarProject\\Source\\AStarProject\\AStarProject.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\holdz\\Desktop\\AStarProject\\.vscode\\compileCommands_AStarProject\\AStarProject.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\holdz\\Desktop\\AStarProject\\Source\\AStarProject\\AStarProjectGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\holdz\\Desktop\\AStarProject\\.vscode\\compileCommands_AStarProject\\AStarProject.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\holdz\\Desktop\\AStarProject\\Source\\AStarProject\\AStarProjectGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\holdz\\Desktop\\AStarProject\\.vscode\\compileCommands_AStarProject\\AStarProject.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\holdz\\Desktop\\AStarProject\\Source\\AStarProject\\HexGridManager.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\holdz\\Desktop\\AStarProject\\.vscode\\compileCommands_AStarProject\\AStarProject.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\holdz\\Desktop\\AStarProject\\Source\\AStarProject\\HexGridManager.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\holdz\\Desktop\\AStarProject\\.vscode\\compileCommands_AStarProject\\AStarProject.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\holdz\\Desktop\\AStarProject\\Source\\AStarProject\\HexTile.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\holdz\\Desktop\\AStarProject\\.vscode\\compileCommands_AStarProject\\AStarProject.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\holdz\\Desktop\\AStarProject\\Source\\AStarProject\\HexTile.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\holdz\\Desktop\\AStarProject\\.vscode\\compileCommands_AStarProject\\AStarProject.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	}
+]
